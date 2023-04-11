@@ -1,6 +1,7 @@
 # TASK MANAGER WITH FLUTTER
 
-A new Flutter application for task manager application. For backend API follow this [link](https://github.com/rajatg231/spring-boot-task-manager.git)
+A new Flutter application for task manager application. For backend API follow this [link](https://github.com/rajatg231/spring-boot-task-manager.git).
+
 A working demonstration of the task manager can be seen in this [video](https://www.loom.com/share/6592251f03b74094952b2f31f3c91b45).
 ## Getting Started
 
